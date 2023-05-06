@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
 
-I'm a born as a developer but now I will die has a Bug Boounty. I enjoy thinking upside down. 🛡️
+I'm a born as a developer but now I will die as a Bug Boounty. I enjoy thinking upside down. 🛡️
 
 📌 Feel free to reach out to me if you have any questions or need help with web security!
 
