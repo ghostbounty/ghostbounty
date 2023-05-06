@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Ghøst Bøunty!
 
-## 🐛 Bug Bounty Hunter | 💻 Security Researcher | 🌍 Ethical Hacker
+## 🐛 Bug Bounty Hunter | 💻 Security Researcher |🔨 Hacking Tools Developer
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
 
-I'm a passionate bug bounty hunter, ethical hacker, and security researcher. I enjoy finding vulnerabilities and helping organizations make their systems more secure. 🛡️
+I'm a born as a developer but now I will die has a Bug Boounty. I enjoy thinking upside down. 🛡️
 
 📌 Feel free to reach out to me if you have any questions or need help with web security!
 
