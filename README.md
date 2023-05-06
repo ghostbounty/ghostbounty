@@ -30,7 +30,7 @@ I'm a passionate bug bounty hunter, ethical hacker, and security researcher. I e
 
 - 🐦 Twitter: [@gh0stb0unty](https://twitter.com/gh0stb0unty)
 - 💼 LinkedIn: [gh0stb0unty](https://www.linkedin.com/in/yourlinkedin/)
-- 📧 Email: [info@gh0stb0unty.de](mailto:info@gh0stb0unty.dev)
+- 📧 Email: [info@ghostbounty.dev](mailto:info@ghostbounty.dev)
 
 ## 📖 Latest Blog Posts
 
