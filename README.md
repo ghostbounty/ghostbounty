@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ghøst Bøunty!
+# ✌️ Hi, I'm Ghøst Bøunty!
 
 ## 🐛 Bug Bounty Hunter | 📺 Cybersecurity Promoter |🔨 Hacking Tools Developer | 🧪 Security Researcher 
 
