@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ghøst Bøunty!
 
-## 🐛 Bug Bounty Hunter | 💻 Security Researcher |🔨 Hacking Tools Developer
+## 🐛 Bug Bounty Hunter | 📺 Cybersecurity Promoter |🔨 Hacking Tools Developer | 🧪 Security Researcher 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
 
