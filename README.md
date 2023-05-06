@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ghost Bounty!
+# 👋 Hi there, I'm Ghøst Bøunty!
 
 ## 🐛 Bug Bounty Hunter | 💻 Security Researcher | 🌍 Ethical Hacker
 
